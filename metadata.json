@@ -1,0 +1,5 @@
+{
+  "name": "Echo Voice AI",
+  "description": "A real-time conversational voice assistant powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
